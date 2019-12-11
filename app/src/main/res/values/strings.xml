@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">I new Som</string>
+
+    <string name="start">Começar</string>
+    <string name="cancel">Reiniciar</string>
+    <string name="error">Error</string>
+    <string name="suss">Suss</string>
+</resources>
